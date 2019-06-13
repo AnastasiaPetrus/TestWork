@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D078CEA22B2D553005FF65A /* FontsListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D078CE922B2D553005FF65A /* FontsListTableViewCell.swift */; };
 		5D0DDD5C22AA973F0031DEAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0DDD5B22AA973F0031DEAE /* AppDelegate.swift */; };
 		5D0DDD5E22AA973F0031DEAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0DDD5D22AA973F0031DEAE /* ViewController.swift */; };
 		5D0DDD6122AA973F0031DEAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D0DDD5F22AA973F0031DEAE /* Main.storyboard */; };
@@ -50,6 +51,7 @@
 		00342E8BBAD5435410E55365 /* Pods_TestWork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestWork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A1638BD107E614717F95B4 /* Pods-TestWorkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestWorkTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestWorkTests/Pods-TestWorkTests.release.xcconfig"; sourceTree = "<group>"; };
 		2DB153CFE331798D5042D3B8 /* Pods-TestWork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestWork.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestWork/Pods-TestWork.debug.xcconfig"; sourceTree = "<group>"; };
+		5D078CE922B2D553005FF65A /* FontsListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsListTableViewCell.swift; sourceTree = "<group>"; };
 		5D0DDD5822AA973F0031DEAE /* TestWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D0DDD5B22AA973F0031DEAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D0DDD5D22AA973F0031DEAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				5D0DDD5D22AA973F0031DEAE /* ViewController.swift */,
 				5D0DDD8C22AAAF4D0031DEAE /* PickerViewController.swift */,
 				5D0DDD9822AAB9930031DEAE /* FontsTableViewController.swift */,
+				5D078CE922B2D553005FF65A /* FontsListTableViewCell.swift */,
 				5D57E7FF22AFA66A00A36BDB /* ImageDownloadViewController.swift */,
 				5D0DDD5F22AA973F0031DEAE /* Main.storyboard */,
 				5D0DDD7E22AA97450031DEAE /* TestWorkUITests.swift */,
@@ -415,6 +418,7 @@
 				5D0DDD6422AA973F0031DEAE /* TestWork.xcdatamodeld in Sources */,
 				5D57E80022AFA66A00A36BDB /* ImageDownloadViewController.swift in Sources */,
 				5D0DDD8D22AAAF4E0031DEAE /* PickerViewController.swift in Sources */,
+				5D078CEA22B2D553005FF65A /* FontsListTableViewCell.swift in Sources */,
 				5D0DDD9922AAB9930031DEAE /* FontsTableViewController.swift in Sources */,
 				5D0DDD5C22AA973F0031DEAE /* AppDelegate.swift in Sources */,
 			);
